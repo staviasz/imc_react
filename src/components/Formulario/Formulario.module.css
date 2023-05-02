@@ -1,0 +1,31 @@
+.form {
+    display: block;
+    margin: 0 auto;
+}
+
+.formLabel {
+    display: block;
+}
+
+.formInput {
+    padding: 8px;
+    width: 350px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    border: 1px solid;
+}
+
+.formBtn {
+    padding: 8px;
+    margin-bottom: 16px;
+    width: 100px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #2196F3;
+    border-radius: 8px;
+}
+
+.formSclamer {
+    display: block;
+}
+
